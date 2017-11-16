@@ -1,0 +1,30 @@
+
+
+//twilio installation
+
+//inside function dir
+npm install --save twilio
+
++12312259133
+
+link = https://www.twilio.com/console
+user name = pinal.knoxpo
+password = pinal.knoxpo12
+
+
+//firebase
+npm install firebase-tools
+
+// create project
+firebase init project_name
+[select firebase tools as per requirement like real time database or firebase function]
+
+
+//check log in
+firebase login
+
+// delopy function
+firebase deploy [project-code]
+
+//to check function
+use link provided in deploy statement
